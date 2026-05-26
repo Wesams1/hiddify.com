@@ -1,3 +1,4 @@
+bash <(curl https://i.hiddify.com/release)
 ---
 title: راهنمای نصب اصلی
 weight: -90
